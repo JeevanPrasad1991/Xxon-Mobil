@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff0000</color>
+    <color name="colorPrimaryDark">#e50000</color>
+    <color name="colorAccent">#FF27A404</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey_background">#EEEEEE</color>
+    <color name="grey_dark_background">#cfcfcf</color>
+    <color name="light_orange_background">#FFF9E0BA</color>
+    <color name="green">#FF27A404</color>
+    <color name="blue">#2196F3</color>
+    <color name="colorOrange">#FFE0B2</color>
+    <color name="orange">#FF5722</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="amber">#ffbf00</color>
+    <color name="red">#FF0000</color>
+    <color name="storelist">#cfcfcf</color>
+    <color name="forcheckout">#e50000</color>
+    <color name="blueforstorelist">#3399FF</color>
+</resources>

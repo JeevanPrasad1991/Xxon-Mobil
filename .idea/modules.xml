@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Xxon-Mobil.iml" filepath="$PROJECT_DIR$/Xxon-Mobil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annca/annca.iml" filepath="$PROJECT_DIR$/annca/annca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xxon-mobil/xxon-mobil.iml" filepath="$PROJECT_DIR$/xxon-mobil/xxon-mobil.iml" />
+    </modules>
+  </component>
+</project>
